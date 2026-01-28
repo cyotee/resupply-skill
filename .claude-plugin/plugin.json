@@ -1,0 +1,12 @@
+{
+  "name": "resupply",
+  "version": "0.1.0",
+  "description": "Progressive disclosure skills for the Resupply CDP-based stablecoin lending protocol",
+  "author": {
+    "name": "cyotee",
+    "url": "https://github.com/cyotee"
+  },
+  "repository": "https://github.com/cyotee/resupply-skill",
+  "license": "MIT",
+  "keywords": ["resupply", "defi", "lending", "cdp", "stablecoin", "reUSD", "solidity"]
+}
